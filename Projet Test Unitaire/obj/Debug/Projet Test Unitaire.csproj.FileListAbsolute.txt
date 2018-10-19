@@ -1,0 +1,7 @@
+D:\C#\Projet Test Unitaire\Projet Test Unitaire\bin\Debug\Projet Test Unitaire.exe.config
+D:\C#\Projet Test Unitaire\Projet Test Unitaire\bin\Debug\Projet Test Unitaire.exe
+D:\C#\Projet Test Unitaire\Projet Test Unitaire\bin\Debug\Projet Test Unitaire.pdb
+D:\C#\Projet Test Unitaire\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.csprojAssemblyReference.cache
+D:\C#\Projet Test Unitaire\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.csproj.CoreCompileInputs.cache
+D:\C#\Projet Test Unitaire\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.exe
+D:\C#\Projet Test Unitaire\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.pdb
