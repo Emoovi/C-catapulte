@@ -8,7 +8,9 @@ namespace Projet_Test_Unitaire
 {
     class Program{
         static void Main(string[] args){
-
+            Console.Writeline('test');
         }
+
+        
     }
 }
