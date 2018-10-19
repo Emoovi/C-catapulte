@@ -1,7 +1,0 @@
-D:\cours\B2\C#\CLaGuerre\CLaGuerre\bin\Debug\CLaGuerre.exe.config
-D:\cours\B2\C#\CLaGuerre\CLaGuerre\bin\Debug\CLaGuerre.exe
-D:\cours\B2\C#\CLaGuerre\CLaGuerre\bin\Debug\CLaGuerre.pdb
-D:\cours\B2\C#\CLaGuerre\CLaGuerre\obj\Debug\CLaGuerre.csprojAssemblyReference.cache
-D:\cours\B2\C#\CLaGuerre\CLaGuerre\obj\Debug\CLaGuerre.csproj.CoreCompileInputs.cache
-D:\cours\B2\C#\CLaGuerre\CLaGuerre\obj\Debug\CLaGuerre.exe
-D:\cours\B2\C#\CLaGuerre\CLaGuerre\obj\Debug\CLaGuerre.pdb

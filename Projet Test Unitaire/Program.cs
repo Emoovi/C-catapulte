@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CLaGuerre
+namespace Projet_Test_Unitaire
 {
-    public abstract class ArmeDeJet
-    {
-        protected int Pdv;
+    class Program{
+        static void Main(string[] args){
 
-
-
+        }
     }
 }

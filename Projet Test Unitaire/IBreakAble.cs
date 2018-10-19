@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CLaGuerre
+namespace Projet_Test_Unitaire
 {
-    interface IBreakAble
-    {
-        int life;
+    interface IBreakAble{
+
+        int LifePoint(int Pv);
     }
 }

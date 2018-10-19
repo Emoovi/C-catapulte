@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BAB96DE8-140E-4A88-8A23-5B3C475FDFC0}</ProjectGuid>
+    <ProjectGuid>{D1D31C8B-F8F8-49B9-AC09-1562A1198CFB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CLaGuerre</RootNamespace>
-    <AssemblyName>CLaGuerre</AssemblyName>
+    <RootNamespace>Projet_Test_Unitaire</RootNamespace>
+    <AssemblyName>Projet Test Unitaire</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArmeDeJet.cs" />
+    <Compile Include="IBreakAble.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Trebuchet.cs" />
