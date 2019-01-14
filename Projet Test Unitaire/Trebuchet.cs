@@ -8,8 +8,6 @@ namespace Projet_Test_Unitaire
 {
     class Trebuchet : ArmeDeJet{
 
-
-
         public Trebuchet(){
 
         }

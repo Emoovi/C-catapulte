@@ -5,3 +5,10 @@ D:\C#\Projet Test Unitaire\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.c
 D:\C#\Projet Test Unitaire\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.csproj.CoreCompileInputs.cache
 D:\C#\Projet Test Unitaire\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.exe
 D:\C#\Projet Test Unitaire\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.pdb
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\Projet Test Unitaire\bin\Debug\Projet Test Unitaire.exe.config
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\Projet Test Unitaire\bin\Debug\Projet Test Unitaire.exe
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\Projet Test Unitaire\bin\Debug\Projet Test Unitaire.pdb
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.csprojAssemblyReference.cache
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.csproj.CoreCompileInputs.cache
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.exe
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\Projet Test Unitaire\obj\Debug\Projet Test Unitaire.pdb

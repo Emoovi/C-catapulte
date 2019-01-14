@@ -1,0 +1,17 @@
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\UnitTest.dll
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\UnitTest.pdb
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\obj\Debug\UnitTest.dll
+D:\#Documents\C#\Projet Test Unitaire\C-catapulte\UnitTest\obj\Debug\UnitTest.pdb
